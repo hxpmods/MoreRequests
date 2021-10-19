@@ -1,0 +1,6 @@
+{
+"Faction": "Citizen",
+"Name": "morerequests:starving",
+"Text": "Hello Alchemist. You ought to help me!\n My family and I have been struggling to get our hands on anything eatable after these crooked-nosed bandits robbed us! Surely you have something that could aid us?",
+"DesiredEffects": ["Crop", "Growth"]
+}

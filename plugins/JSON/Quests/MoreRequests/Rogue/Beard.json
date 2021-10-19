@@ -1,0 +1,6 @@
+{
+"Faction": "Rogue",
+"Name": "morerequests:beard",
+"Text": "I am going to cut the dwarf's beard. Give me a potion to aid me, as he is so strong that even getting close to him would be the death of me.",
+"DesiredEffects": ["Invisibility", "Fire", "Acid"]
+}

@@ -1,0 +1,6 @@
+{
+"Faction": "Citizen",
+"Name": "morerequests:fallingstone",
+"Text": "Hello Potion Seller! I come here with some bad news...\n My brothers, Lario and Muigi and I were exploring these huge caves.\n And these huge stone faces fall on 'em!\n I'm pretty sure I can still remember the 'thwomp' the stone made when their legs were crushed.\n You got something to help 'em right?",
+"DesiredEffects": ["Healing"]
+}

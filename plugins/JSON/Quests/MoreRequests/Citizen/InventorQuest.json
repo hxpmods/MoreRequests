@@ -1,6 +1,6 @@
 {
 "Faction": "Citizen",
 "Name": "morerequests:inventor",
-"Text": "Hello Alchemist. Are you aware of the mystical art of 'science'?,\nThrough my studies of such wonders, I have devised a storm ritual to animate great machines and grand constructs!\nAlas, this spot of good weather recently has slowed my practise down considerably. My own attempts at capturing this power have resulted in many a charred fork.\nPerhaps a more reliable approach is what I need to continue.",
+"Text": "Hello Alchemist. Are you aware of the mystical art of 'science'?,\nThrough my studies of such wonders, I have devised a storm ritual to animate great machines and grand constructs!\nAlas, this spot of good weather recently has slowed my practice down considerably. My own attempts at capturing this power have resulted in many a charred fork.\nPerhaps a more reliable approach is what I need to continue.",
 "DesiredEffects": ["Lightning"]
 }

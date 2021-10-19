@@ -1,6 +1,6 @@
 {
 "Faction": "Female",
 "Name": "morerequests:boomtime",
-"Text": "I've just built the greatest manor this kindom has ever seen for one of His Majesty's Duke's. Of course, the esteemed nitwit has decided to relocate to somewhere colder, so I'm now excited to announce that I am in charge of planning the greatest demolition this kindom has ever seen.\nSpare no expense, I'm not paying for it anyway.",
+"Text": "I've just built the greatest manor this kingdom has ever seen for one of His Majesty's Duke's. Of course, the esteemed nitwit has decided to relocate to somewhere colder, so I'm now excited to announce that I am in charge of planning the greatest demolition this kingdom has ever seen.\nSpare no expense, I'm not paying for it anyway.",
 "DesiredEffects": ["Fire", "Explosion"]
 }
