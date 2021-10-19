@@ -1,5 +1,5 @@
 {
-"Faction": "Warrior",
+"Faction": "Hunter",
 "Name": "morerequests:fastmonster",
 "Text": "Greetings Alchemist! My hunter party and I have been pitchkettled at the thought of this abomination. There is this... thing... it's been going around slaying any cattle it can find.\n My party have encountered it a dozen times! Yet it is too fast to sink a dagger into!\n Anything you have for such an issue?",
 "DesiredEffects": ["SlowDown"]

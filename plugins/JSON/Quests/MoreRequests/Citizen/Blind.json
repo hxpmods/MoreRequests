@@ -1,0 +1,6 @@
+{
+    "Faction": "Citizen",
+    "Name": "morerequests:blind",
+    "Text": " Help me Alchemist! My wife has gone ill, her eyes are as pale as the night. She can't even see my face anymore! I'm worried sick.",
+    "DesiredEffects": ["Healing", "SharpVision"]
+    }
