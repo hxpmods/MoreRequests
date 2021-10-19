@@ -1,0 +1,6 @@
+{
+"Faction": "Hunter",
+"Name": "notawitcher:medusa",
+"Text": "I am hunting a beast that would turn me to stone should our eyes connect.",
+"DesiredEffects": ["Invisibility", "SharpVision"]
+}
