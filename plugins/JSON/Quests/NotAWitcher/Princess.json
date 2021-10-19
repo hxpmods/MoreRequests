@@ -1,0 +1,6 @@
+{
+"Faction": "Hunter",
+"Name": "notawitcher:princess",
+"Text": "I come with grave news from the Alderman. The Princess has something evil growing inside of her. It must be cleansed immediately if she is to survive.",
+"DesiredEffects": ["Fire", "Light"]
+}

@@ -1,0 +1,6 @@
+{
+"Faction": "Citizen",
+"Name": "morerequests:robot",
+"Text": "Hello fellow human being.\nIt is I, your everyday average customer.\n*beep* *buzz*\nI desire a potion to stimulate my emotional cortex.",
+"DesiredEffects": ["Charm", "Libido", "Berserker", "Hallucination"]
+}
