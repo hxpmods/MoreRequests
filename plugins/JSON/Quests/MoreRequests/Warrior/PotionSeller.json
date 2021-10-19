@@ -1,0 +1,6 @@
+{
+"Faction": "Warrior",
+"Name": "morerequests:potionseller",
+"Text": "Potion Seller! I am going into battle, and I need your strongest potion!",
+"DesiredEffects": ["Berserker", "Mana", "StoneSkin", "Healing", "Fly", "Invisibility"]
+}

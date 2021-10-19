@@ -1,0 +1,6 @@
+{
+"Faction": "Necromancy",
+"Name": "morerequests:thewill",
+"Text": "I come to you with a problem that I fear can not be solved with mundane means.\nYou see, my parents recently passed of sudden illness shortly after they began to write their will, now my siblings and I squabble endlessly over how we will divide their estate. If there were some way we could talk to them again, and find out their last wishes, you would surely be rewarded handsomely.",
+"DesiredEffects": ["Necromancy"]
+} 

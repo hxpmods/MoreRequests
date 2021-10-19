@@ -1,0 +1,6 @@
+{
+"Faction": "Citizen",
+"Name": "morerequests:catintree",
+"Text": "Well, first I'd like to say that the Potion of Growth you sold us did in fact save our harvest...\nIt's just that Mr Tiddles decided to climb the tree before we used it, and we haven't managed to get him down since...",
+"DesiredEffects": ["Fly", "Bounce"]
+}

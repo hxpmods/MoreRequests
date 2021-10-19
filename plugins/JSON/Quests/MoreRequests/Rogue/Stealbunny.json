@@ -1,0 +1,6 @@
+{
+"Faction": "Rogue",
+"Name": "morerequests:stolenbunny",
+"Text": "I've been hired to steal the bunny out of a magician's hat mid-show. I expect you to handle this as professionally as I am.",
+"DesiredEffects": ["Invisibility"]
+}

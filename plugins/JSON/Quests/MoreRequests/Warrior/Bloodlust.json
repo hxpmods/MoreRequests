@@ -1,0 +1,6 @@
+{
+"Faction": "Warrior",
+"Name": "morerequests:bloodlust",
+"Text": "Oh gosh, oh gee... This is embarassing.\nHere's the deal... I'm having some, shall we say, performance issues...\nTo put it bluntly, I just can't get into the same rage-induced bloodlusting battle frenzy that my brothers-in-arms do.\nIt's starting to make things awkward after we're all finished.\nPlease help.",
+"DesiredEffects": ["Berserker"]
+}
