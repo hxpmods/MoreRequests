@@ -1,0 +1,6 @@
+{
+"Faction": "Female",
+"Name": "morerequests:antiswoon",
+"Text": "There's this creep trying to sneak a charm potion into the that lovely herb lady's drink! You got anything that could, you know... prevent that?",
+"DesiredEffects": ["Poison", "Sleep", "Fire", "Explosion", "Lightning", "Acid"]
+}
