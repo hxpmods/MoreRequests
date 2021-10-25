@@ -1,0 +1,6 @@
+{
+"Faction": "Necromancy",
+"Name": "morerequests:curiousfellow",
+"Text": "Say, what would happen if I used a necromancy potion on someone who was already alive? Would they die, would they turn into a living skeleton? I must document this... most curious indeed...",
+"DesiredEffects": ["Necromancy"]
+}
